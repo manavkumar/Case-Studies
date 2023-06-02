@@ -1,0 +1,4 @@
+com\fleet\objects\Truck.class
+com\fleet\schedule\FleetScheduleSystem.class
+com\fleet\objects\Charger.class
+com\fleet\schedule\ChargingSchedule.class
